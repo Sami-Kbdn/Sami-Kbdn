@@ -92,7 +92,7 @@ Développée avec Hugging Face Transformers et Streamlit, l'application offre un
 ![azure-devops](https://img.shields.io/badge/azure--devops-latest-blue.svg)
 
 
-## 🎬 Full Projet – Movie_Predict – Prédiction des Entrées Cinéma
+## 🎬 Full Projet – Movie Predict – Prédiction des Entrées Cinéma
 
 Développement d’une application complète pour prédire le nombre d’entrées en salle d’un film **avant sa sortie**, avec une architecture microservices et automatisation du scraping :
 

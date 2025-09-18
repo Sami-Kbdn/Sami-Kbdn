@@ -1,7 +1,7 @@
 # 🙋‍♂️ À propos de moi
 
-💡 Développeur en IA (École IA Microsoft) | Python & AI practitioner 🐍🤖
-⚙️ ML, Deep Learning, Computer Vision, LLM, Agents IA, Automatisation
+💡 Développeur en IA (École IA Microsoft) | Python & AI practitioner 🐍🤖<br>
+⚙️ ML, Deep Learning, Computer Vision, LLM, Agents IA, Automatisation<br>
 📦 Stack : Scikit-learn · TensorFlow · PyTorch · LangChain · OpenCV · Pandas · SQL · PySpark · FastAPI · Streamlit · Docker · Azure
 
 ---
